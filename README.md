@@ -15,15 +15,10 @@ Installation
 2. Open the file NOVA_Openings.php file in your favorite editor.
 3.  On line 40 where it reads:
 >$novadb = new wpdb( 'username', 'user password', 'database', 'server' );
-
 replace with your NOVA database backend credentials.
-
 >**Note:** if your database is not local to your wordress installation, please ensure all remote access privileges are set.
-
 4.Open Wordpress administration screen and select plugins.  Activate the plugin **NOVA Command Open Position List**
-
 5. On the desired page, insert the shortcode **[CMD_OPENINGS PREFIX="Nova Table Prefix Code"] **.  Change the Prefix code to the table prefix code specified during the installation of the NOVA application.
-
 6. surround the shortcode with <span> tags if styling is desired.
 
 Changing the output styling
