@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Trekfederation Command Open Position List
+Plugin Name: Command Open Position List
 Plugin URI: https://www.trekfederation.com/engineering
 Description: Pulls data from NOVA installations to promote open positions
 Version: 0.1 BETA
@@ -9,9 +9,9 @@ Author URI: https://trekfederation.com
 */
 
 /*
-Starfleet Trekfed Chapter List (Wordpress Plugin)
-Copyright (C) 2015 International Federation of Trekkers
-Contact me at http://www.reallyeffective.co.uk
+Command Open Position List (Wordpress Plugin)
+Copyright (C) 2015 Evan Cutler
+Contact me at arcee123@gmail.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
